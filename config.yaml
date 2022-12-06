@@ -1,0 +1,11 @@
+eth2.network: "prater"
+http-listen-host: "*"
+logging: "INFO"
+data-path: "/data"
+# AWS config
+eth2.aws-connection-cache-size: 5
+eth2.aws-secrets-enabled: false
+
+#Enabling API
+eth2.key-manager-api-enabled: true   # under development
+#swagger-ui-enabled: true

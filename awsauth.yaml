@@ -1,0 +1,7 @@
+type: "aws-secret"
+authenticationMode: "SPECIFIED"
+keyType: "BLS"
+accessKeyId: "xxxx"
+secretAccessKey: "XXXX"
+secretName: "keystore-1"
+region: "us-west-1"
