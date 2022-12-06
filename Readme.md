@@ -1,6 +1,9 @@
 # Web3signer + AWS secret manager + Eth2 validator(prysm)
 
-## pre prerequisite
+
+<img src="Web3signer.png" width="50%" height="50%">
+
+## pre requisite
  
  Install docker & Java > v11
 
